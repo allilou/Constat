@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Constat</string>
+    <string name="num">Numéro :</string>
+    <string name="type_repere">Type de Repère :</string>
+    <string name="remarque">Remarques :</string>
+    <string name="longitude">Longitude :</string>
+    <string name="latitude">Latitude :</string>
+    <string name="updatelocation">Mettre à jours la position</string>
+    <string name="etat_repere">Etat du repère</string>
+    <string name="save_to_html">Enregistrer en HTML</string>
+    <string name="refresh_fields">Effacer les champs</string>
+    <string name="nature_repere">Nature du repère</string>
+    <string name="operateur">Opérateur : </string>
+    <string name="altitude">Altitude :</string>
+
+    <string-array name="type_repere">
+        <item>Géodésie</item>
+        <item>Nivellement</item>
+        <item>Gravimétrie</item>
+        <item>Autre</item>
+    </string-array>
+
+    <string-array name="nature_repere">
+        <item>Premier Ordre</item>
+        <item>Deuxième Ordre</item>
+        <item>Densification</item>
+        <item>Autre</item>
+    </string-array>
+
+    <string-array name="etat_repere">
+        <item>Bon état</item>
+        <item>Dégradé</item>
+        <item>Inexistant</item>
+        <item>Autre</item>
+    </string-array>
+
+</resources>
